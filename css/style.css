@@ -35,6 +35,10 @@ main {
     margin: 0;
     flex-basis: 40%;
     position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 6rem;
 }
 
 
